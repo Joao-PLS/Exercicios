@@ -2,3 +2,5 @@
 - Bash
 - Git
 - Softskills
+- HTML
+- CSS
